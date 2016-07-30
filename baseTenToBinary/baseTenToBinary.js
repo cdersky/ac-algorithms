@@ -1,7 +1,7 @@
-//Create a function that converts a base ten number to a binary. If the user uses an invalid number, return false;
+//Create a function that converts a base ten number to a binary. If the input is an invalid number, return false;
 
 //Examples: 
-/// (5) should return 101.
+/// baseTenToBinary(5) should return 101.
 /// baseTenToBinary(3r84) should return false.
 
 
@@ -10,7 +10,7 @@ function baseTenToBinary(baseTenNumber) {
 }
 
 
-//Test Cases
+// Test Cases
 
 // baseTenToBinary(169) should return 10101001.
 // baseTenToBinary(1) should return 1.

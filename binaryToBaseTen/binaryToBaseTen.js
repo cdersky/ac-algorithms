@@ -1,6 +1,6 @@
-//Create a function that converts a binary number to a base ten number. If the user uses a non-binary number, return the boolean false;
+// Create a function that converts a binary number to a base ten number. If the input is a non-binary number, return the boolean false;
 
-//Examples: 
+// Examples: 
 /// binaryToBaseTen(100101) should return 37.
 /// binaryToBaseTen(100201) should return false.
 
@@ -9,7 +9,7 @@ function binaryToBaseTen(binaryNumber) {
 }
 
 
-//Test Cases
+// Test Cases
 
 // binaryToBaseTen(10) should return 2.
 // binaryToBaseTen(010) should return 2.
