@@ -4,7 +4,8 @@
 /// (5) should return 101.
 /// baseTenToBinary(3r84) should return false.
 
-function baseTenToBinary() {
+
+function baseTenToBinary(baseTenNumber) {
  //your code here
 }
 

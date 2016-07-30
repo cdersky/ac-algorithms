@@ -4,7 +4,7 @@
 /// binaryToBaseTen(100101) should return 37.
 /// binaryToBaseTen(100201) should return false.
 
-function binaryToBaseTen() {
+function binaryToBaseTen(binaryNumber) {
  //your code here
 }
 
